@@ -1,5 +1,6 @@
 # MittArvMain
 Directory overview
+
 /MovieSearchApp :
 Contains project files.
 
