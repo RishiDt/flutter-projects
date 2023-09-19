@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "839130196799",
+    "project_id": "flutteremailautho",
+    "storage_bucket": "flutteremailautho.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839130196799:android:48ddb239fb5d253389818a",
+        "android_client_info": {
+          "package_name": "com.example.jwt_auth_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839130196799-4dad9trktfeo1f535vncrf4l61nifcdt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQLvxsASa9lDYOpbLthFIYwMo1M0X3HJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839130196799-4dad9trktfeo1f535vncrf4l61nifcdt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
